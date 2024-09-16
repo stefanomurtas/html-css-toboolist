@@ -71,6 +71,7 @@ hr {
 
 h2{
     font-size: 40px;
+    color: #4a4a4a;
     
 }
 .simbolo1{
@@ -88,4 +89,31 @@ h2{
 .testo{
     display: inline-block;
     font-size:30px;
+    color: #4a4a4a;
+}
+
+
+.targetc { 
+    background-color: rgb(64, 131, 240);
+    display: inline-block;
+    border:none;
+    border-radius: 6%;
+    padding: 15px 15px;
+    text-align: center;
+    font-size: 22px;
+    color:white;
+    margin-left: 15px;
+
+}
+.simbolo2{
+    display:inline-block;
+    height: 30px;
+    width: 30px;
+    border: 1px solid;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 50%;
+    color: rgb(192, 8, 8);
+
+
 }
