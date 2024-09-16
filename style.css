@@ -1,23 +1,23 @@
-body{
+body {
     background-color: rgb(198, 196, 196);
     margin: 0;
 }
 
 
-header{
+header {
     background-color: white;
     padding-top: 40px;
     padding-bottom: 40px;
     display: block;
-    
-    
+
+
 }
 
-#logo{
+#logo {
     width: 18%;
 }
 
-main{
+main {
     background-color: white;
     border-radius: 3%;
     margin-top: 3%;
@@ -26,40 +26,62 @@ main{
 
 }
 
-section{
+section {
     padding-left: 6%;
     padding-top: 20px;
 
+
+
+}
+
+
+.box {
+    background-color: #f2f2f4;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+#n1:hover {
+    background-color: rgb(22, 173, 181);
+    border: 2px solid #4a4a4a;
+    transition-duration: 0.4s;
+    color: white;
+}
+
+
+#n2:hover {
+    background-color: rgb(22, 173, 181);
+    border: 2px solid #4a4a4a;
+    transition-duration: 0.4s;
+    color: white;
+}
+
+hr {
+    background-color: rgb(198, 196, 196);
+
+}
+
+h2{
+    font-size: 40px;
     
-
 }
+.simbolo1{
+    display:inline-block;
+    height: 30px;
+    width: 30px;
+    border: 1px solid;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 50%;
+    color: forestgreen;
 
 
-.box{
- background-color: #f2f2f4;
-  border: none;
-  color: rgb(0, 0, 0);
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 25px;
-  margin: 4px 2px;
-  cursor: pointer;
-  transition-duration: 0.4s;
-}
-
-#n1:hover{
-    background-color: rgb(22, 173, 181);
-    border: 2px solid #4a4a4a;
-    transition-duration: 0.4s;
-    color:white;
-}
-
-
-#n2:hover{
-    background-color: rgb(22, 173, 181);
-    border: 2px solid #4a4a4a;
-    transition-duration: 0.4s;
-    color:white;
 }
