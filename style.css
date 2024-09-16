@@ -8,9 +8,20 @@ header{
     background-color: white;
     padding-top: 40px;
     padding-bottom: 40px;
+    display: block;
+    
     
 }
 
 #logo{
     width: 18%;
+}
+
+main{
+    background-color: white;
+    border-radius: 3%;
+    margin-top: 3%;
+    margin-left: 15%;
+    margin-right: 15%;
+
 }
