@@ -85,9 +85,20 @@ h2{
     line-height: 35px;
     border-radius: 50%;
     color: forestgreen;
+}
+.simbolo2{
+    display:inline-block;
+    height: 30px;
+    width: 30px;
+    border: 1px solid;
+    text-align: center;
+    line-height: 35px;
+    border-radius: 50%;
+    color: rgb(192, 8, 8);
 
 
 }
+
 .testo{
     display: inline-block;
     font-size:30px;
@@ -107,20 +118,53 @@ h2{
     margin-left: 15px;
 
 }
-.simbolo2{
-    display:inline-block;
-    height: 30px;
-    width: 30px;
-    border: 1px solid;
-    text-align: center;
-    line-height: 35px;
-    border-radius: 50%;
-    color: rgb(192, 8, 8);
 
-
-}
 .targetcP{ 
     background-color: rgba(128, 18, 164, 0.718);
+    display: inline;
+    border:none;
+    border-radius: 6%;
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 22px;
+    color:white;
+    margin-left: 15px;
+}
+.targetcG{ 
+    background-color: rgba(86, 236, 176, 0.718);
+    display: inline;
+    border:none;
+    border-radius: 6%;
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 22px;
+    color:white;
+    margin-left: 15px;
+}
+.targetcO{ 
+    background-color: orange;
+    display: inline;
+    border:none;
+    border-radius: 6%;
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 22px;
+    color:white;
+    margin-left: 15px;
+}
+.targetcPi{ 
+    background-color:palevioletred;
+    display: inline;
+    border:none;
+    border-radius: 6%;
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 22px;
+    color:white;
+    margin-left: 15px;
+}
+.targetcGR{ 
+    background-color:rgb(86, 181, 45);
     display: inline;
     border:none;
     border-radius: 6%;
