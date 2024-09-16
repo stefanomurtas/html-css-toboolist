@@ -110,7 +110,7 @@ h2{
     background-color: rgb(64, 131, 240);
     display: inline;
     border:none;
-    border-radius: 6%;
+    border-radius: 8%;
     padding: 10px 10px;
     text-align: center;
     font-size: 22px;
@@ -119,6 +119,23 @@ h2{
 
 }
 
+#purple{
+    background-color: rgba(128, 18, 164, 0.718);
+}
+#watergreen{
+    background-color: rgba(86, 236, 176, 0.718);
+}
+#orange{
+    background-color: orange;
+}
+#pink{
+    background-color: palevioletred;
+}
+#verdep{
+    background-color:rgb(86, 181, 45);
+
+}
+ /* 
 .targetcP{ 
     background-color: rgba(128, 18, 164, 0.718);
     display: inline;
@@ -174,3 +191,4 @@ h2{
     color:white;
     margin-left: 15px;
 }
+ */
