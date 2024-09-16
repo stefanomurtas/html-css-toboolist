@@ -85,3 +85,7 @@ h2{
 
 
 }
+.testo{
+    display: inline-block;
+    font-size:30px;
+}
